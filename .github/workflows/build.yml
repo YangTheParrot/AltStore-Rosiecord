@@ -29,6 +29,6 @@ jobs:
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           prerelease: false
-          automatic_release_tag: rosiecord_${{ steps.version.outputs.__DISCORD_VERSION }}
-          title: Rosiecord ${{ steps.version.outputs.__DISCORD_VERSION }}
+          automatic_release_tag: altstore_rosiecord_${{ steps.version.outputs.__DISCORD_VERSION }}
+          title: AltStore-Rosiecord ${{ steps.version.outputs.__DISCORD_VERSION }}
           files: Dist/*.ipa
