@@ -2,6 +2,8 @@
 
 ## Rosiecord but it works with AltStore and SideStore :scream:
 
+**The original Rosiecord repo can be found [here](https://github.com/acquitelol/rosiecord)**
+
 ### How to install
 
 The [Releases](https://github.com/YangTheParrot/AltStore-Rosiecord/releases/) tab has all of the IPAs that you can install. Sideload the IPA normally, as if you were sideloading Enmity.
@@ -57,6 +59,7 @@ Rosiecord_[[FontName]](https://github.com/YangTheParrot/AltStore-Rosiecord/tree/
 </div>
 
 Created with <3 By **Rosie** in TypeScript :3
+
 Edited by **mhm balls!** :skull:
 
 This project simply wraps the [Enmity](https://github.com/enmity-mod/enmity) Project with a new patcher and extra features ~ Show them some love!
