@@ -9,18 +9,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/acquitelol/rosiecord.git"
+    "url": "git+https://github.com/YangTheParrot/AltStore-Rosiecord.git"
   },
-  "keywords": ["enmity", "rosiecord", "plumpycord", "discord"],
+  "keywords": [
+    "enmity",
+    "rosiecord",
+    "plumpycord",
+    "discord"
+  ],
   "author": "Rosie<3",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/acquitelol/rosiecord/issues"
+    "url": "https://github.com/YangTheParrot/AltStore-Rosiecord/issues"
   },
-  "homepage": "https://github.com/acquitelol/rosiecord#readme",
+  "homepage": "https://github.com/YangTheParrot/AltStore-Rosiecord#readme",
   "description": "A wrapper for the @enmity-mod client which adds custom icons, fonts, and other modifications.",
   "devDependencies": {
-    "@types/node": "^18.11.18",
+    "@types/node": "^18.17.0",
     "nodemon": "^2.0.20",
     "typescript": "^4.9.4"
   }
