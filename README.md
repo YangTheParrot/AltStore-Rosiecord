@@ -2,9 +2,11 @@
 
 ## Rosiecord but it works with AltStore and SideStore :scream:
 
-**The original Rosiecord repo can be found [here](https://github.com/acquitelol/rosiecord)**
+## The original Rosiecord repo can be found [here](https://github.com/acquitelol/rosiecord) ##
 
 ### How to install
+
+The AltStore source can be found [here](raw.githubusercontent.com/YangTheParrot/AltStore-Rosiecord/main/source.json) (BETA)
 
 The [Releases](https://github.com/YangTheParrot/AltStore-Rosiecord/releases/) tab has all of the IPAs that you can install. Sideload the IPA normally, as if you were sideloading Enmity.
 
@@ -14,9 +16,9 @@ The [Releases](https://github.com/YangTheParrot/AltStore-Rosiecord/releases/) ta
 
 People wanted variations for each IPA, so here is what each IPA means and how the naming convention works:
 
-Rosiecord_[[FontName]](https://github.com/YangTheParrot/AltStore-Rosiecord/tree/master/Fonts/woff2)-Font+[[IconPack]](https://github.com/YangTheParrot/AltStore-Rosiecord/tree/master/Packs)_Pack([[+Flowercord]](https://github.com/YangTheParrot/AltStore-Rosiecord/tree/main/Tweaks/Flowercord)).ipa
+AltStore-Rosiecord_[[FontName]](https://github.com/YangTheParrot/AltStore-Rosiecord/tree/master/Fonts/woff2)-Font+[[IconPack]](https://github.com/YangTheParrot/AltStore-Rosiecord/tree/master/Packs)_Pack([[+Flowercord]](https://github.com/YangTheParrot/AltStore-Rosiecord/tree/main/Tweaks/Flowercord)).ipa
 
-             ^^^ Font used    ^^^ Icon pack used
+                       ^^^ Font used    ^^^ Icon pack used
 
 ## You can look at the IPA names in [Releases](https://github.com/YangTheParrot/AltStore-Rosiecord/releases/), and choose the best one to fit your needs
 
