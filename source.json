@@ -11,6 +11,7 @@
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord made compatible with AltStore!",
+            "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
             "tintColor": "#c34769",
             "versions": [
                 {
