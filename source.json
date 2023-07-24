@@ -12,6 +12,7 @@
             "developerName": "Rosie",
             "subtitle": "Rosiecord made compatible with AltStore!",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
+            "iconURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/blob/main/Icons/EnmityIcon60x60@2x.png?raw=true",
             "tintColor": "#c34769",
             "versions": [
                 {
