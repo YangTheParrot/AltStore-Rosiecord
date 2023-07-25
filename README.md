@@ -6,7 +6,7 @@
 
 ### How to install
 
-The AltStore source can be found [here](https://raw.githubusercontent.com/YangTheParrot/AltStore-Rosiecord/main/source.json) (BETA)
+The AltStore sources can be found [here](https://raw.githubusercontent.com/YangTheParrot/AltStore-Rosiecord/main/Sources/_sources.md) (BETA)
 
 The [Releases](https://github.com/YangTheParrot/AltStore-Rosiecord/releases/) tab has all of the IPAs that you can install. Sideload the IPA normally, as if you were sideloading Enmity.
 

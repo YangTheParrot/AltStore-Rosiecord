@@ -1,0 +1,48 @@
+{
+    "name": "AltStore Rosiecord",
+    "identifier": "com.yangtheparrot.rosiecord.gpf",
+    "subtitle": "AltStore Source with all Rosiecord Variations",
+    "iconURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/blob/main/Icons/EnmityIcon60x60@2x.png?raw=true",
+    "website": "https://github.com/YangTheParrot/AltStore-Rosiecord",
+    "tintColor": "#c34769",
+    "apps": [
+        {
+            "name": "Rosiecord",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Rosie",
+            "subtitle": "Rosiecord with GGSans Font, Plumpy Icons and Flowercord",
+            "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
+            "iconURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/blob/main/Icons/EnmityIcon60x60@2x.png?raw=true",
+            "tintColor": "#c34769",
+            "screenshotURLs": [
+                    "https://raw.githubusercontent.com/YangTheParrot/AltStore-Rosiecord/main/Mocks/Default.png",
+                    "https://raw.githubusercontent.com/YangTheParrot/AltStore-Rosiecord/main/Mocks/Default_Flowercord.png",
+                    "https://raw.githubusercontent.com/YangTheParrot/AltStore-Rosiecord/main/Mocks/Plumpy.png",
+                    "https://raw.githubusercontent.com/YangTheParrot/AltStore-Rosiecord/main/Mocks/Plumpy_Flowercord.png",
+                    "https://raw.githubusercontent.com/YangTheParrot/AltStore-Rosiecord/main/Mocks/Iconsax.png",
+                    "https://raw.githubusercontent.com/YangTheParrot/AltStore-Rosiecord/main/Mocks/Iconsax_Flowercord.png"
+                    ],
+            "versions": [
+            {
+                "version": "188.0",
+                "date": "2023-07-25",
+                "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_GGSans-Font+Plumpy_Icons+Flowercord.ipa",
+                "size": 100000000,
+                "localizedDescription": "Rosiecord with GGSans Font, Plumpy Icons and Flowercord",
+                "minOSVersion": "12.0"}
+                ]
+        }
+            ],
+    "news": [
+        {
+            "title": "New AltStore-Rosiecord Build!",
+            "identifier": "new_build",
+            "caption": "A new AltStore-Rosiecord build has been released to the repository!",
+            "date": "2023-07-25",
+            "tintColor": "#c34769",
+            "notify": true,
+            "url": "https://github.com/YangTheParrot/AltStore-Rosiecord",
+            "appID": "com.hammerandchisel.discord"
+        }
+    ]
+}

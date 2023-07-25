@@ -8,7 +8,7 @@
     "apps": [
         {
             "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.cf",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with Cabin Font and Flowercord",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -24,9 +24,9 @@
         ],
             "versions": [
                 {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_Cabin-Font+Flowercord.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_Cabin-Font+Flowercord.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with Cabin Font and Flowercord",
           "minOSVersion": "12.0"}
@@ -34,7 +34,7 @@
               },
               {
               "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.cif",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with Cabin Font, Iconsax Icons and Flowercord",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -50,23 +50,23 @@
         ],
             "versions": [
                 {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_Cabin-Font+Iconsax_Icons+Flowercord.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_Cabin-Font+Iconsax_Icons+Flowercord.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with Cabin Font, Iconsax Icons and Flowercord",
           "minOSVersion": "12.0"}
                 ]
               },
               {
-              "name": "Rosiecord",
-              "bundleIdentifier": "com.hammerandchisel.rosiecord.ci",
-              "developerName": "Rosie",
-              "subtitle": "Rosiecord with Cabin Font and Iconsax Icons",
-              "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
-              "iconURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/blob/main/Icons/EnmityIcon60x60@2x.png?raw=true",
-              "tintColor": "#c34769",
-              "screenshotURLs": [
+            "name": "Rosiecord",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Rosie",
+            "subtitle": "Rosiecord with Cabin Font and Iconsax Icons",
+            "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
+            "iconURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/blob/main/Icons/EnmityIcon60x60@2x.png?raw=true",
+            "tintColor": "#c34769",
+            "screenshotURLs": [
                 "https://raw.githubusercontent.com/YangTheParrot/AltStore-Rosiecord/main/Mocks/Default.png",
                 "https://raw.githubusercontent.com/YangTheParrot/AltStore-Rosiecord/main/Mocks/Default_Flowercord.png",
                 "https://raw.githubusercontent.com/YangTheParrot/AltStore-Rosiecord/main/Mocks/Plumpy.png",
@@ -76,9 +76,9 @@
         ],
               "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_Cabin-Font+Iconsax_Icons.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_Cabin-Font+Iconsax_Icons.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with Cabin Font and Iconsax Icons",
           "minOSVersion": "12.0"}
@@ -86,7 +86,7 @@
               },
               {
               "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.cpf",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with Cabin Font, Plumpy Icons and Flowercord",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -102,9 +102,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_Cabin-Font+Plumpy_Icons+Flowercord.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_Cabin-Font+Plumpy_Icons+Flowercord.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with Cabin Font, Plumpy Icons and Flowercord",
           "minOSVersion": "12.0"}
@@ -112,7 +112,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.cp",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with Cabin Font and Plumpy Icons",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -128,9 +128,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_Cabin-Font+Plumpy_Icons.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_Cabin-Font+Plumpy_Icons.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with Cabin Font and Plumpy Icons",
           "minOSVersion": "12.0"}
@@ -138,7 +138,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.c",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with Cabin Font",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -154,9 +154,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_Cabin-Font.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_Cabin-Font.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with Cabin Font",
           "minOSVersion": "12.0"}
@@ -164,7 +164,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.gf",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with GGSans Font and Flowercord",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -180,9 +180,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_GGSans-Font+Flowercord.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_GGSans-Font+Flowercord.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with GGSans Font and Flowercord",
           "minOSVersion": "12.0"}
@@ -190,7 +190,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.gif",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with GGSans Font, Iconsax Icons and Flowercord",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -206,9 +206,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_GGSans-Font+Iconsax_Icons+Flowercord.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_GGSans-Font+Iconsax_Icons+Flowercord.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with GGSans Font, Iconsax Icons and Flowercord",
           "minOSVersion": "12.0"}
@@ -216,7 +216,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.gi",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with GGSans Font and Iconsax Icons",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -232,9 +232,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_GGSans-Font+Iconsax_Icons.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_GGSans-Font+Iconsax_Icons.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with GGSans Font and Iconsax Icons",
           "minOSVersion": "12.0"}
@@ -242,7 +242,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.gpf",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with GGSans Font, Plumpy Icons and Flowercord",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -258,9 +258,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_GGSans-Font+Plumpy_Icons+Flowercord.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_GGSans-Font+Plumpy_Icons+Flowercord.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with GGSans Font, Plumpy Icons and Flowercord",
           "minOSVersion": "12.0"}
@@ -268,7 +268,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.gp",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with GGSans Font and Plumpy Icons",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -284,9 +284,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_GGSans-Font+Plumpy_Icons.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_GGSans-Font+Plumpy_Icons.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with GGSans Font and Plumpy Icons",
           "minOSVersion": "12.0"}
@@ -294,7 +294,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.g",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with GGSans Font",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -310,9 +310,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_GGSans-Font.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_GGSans-Font.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with GGSans Font",
           "minOSVersion": "12.0"}
@@ -320,7 +320,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.qf",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with Quicksand Font and Flowercord",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -336,9 +336,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_Quicksand-Font+Flowercord.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_Quicksand-Font+Flowercord.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with Quicksand Font and Flowercord",
           "minOSVersion": "12.0"}
@@ -346,7 +346,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.qif",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with Quicksand Font, Iconsax Icons and Flowercord",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -362,9 +362,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_Quicksand-Font+Iconsax_Icons+Flowercord.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_Quicksand-Font+Iconsax_Icons+Flowercord.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with Quicksand Font, Iconsax Icons and Flowercord",
           "minOSVersion": "12.0"}
@@ -372,7 +372,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.qi",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with Quicksand Font and Iconsax Icons",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -388,9 +388,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_Quicksand-Font+Iconsax_Icons.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_Quicksand-Font+Iconsax_Icons.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with Quicksand Font and Iconsax Icons",
           "minOSVersion": "12.0"}
@@ -398,7 +398,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.qpf",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with Quicksand Font, Plumpy Icons and Flowercord",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -414,9 +414,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_Quicksand-Font+Plumpy_Icons+Flowercord.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_Quicksand-Font+Plumpy_Icons+Flowercord.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with Quicksand Font, Plumpy Icons and Flowercord",
           "minOSVersion": "12.0"}
@@ -424,7 +424,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.qp",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with Quicksand Font and Plumpy Icons",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -440,9 +440,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_Quicksand-Font+Plumpy_Icons.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_Quicksand-Font+Plumpy_Icons.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with Quicksand Font and Plumpy Icons",
           "minOSVersion": "12.0"}
@@ -450,7 +450,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.q",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with Quicksand Font",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -466,9 +466,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_Quicksand-Font.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_Quicksand-Font.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with Quicksand Font",
           "minOSVersion": "12.0"}
@@ -476,7 +476,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.wf",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with Whitney Font and Flowercord",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -492,9 +492,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_Whitney-Font+Flowercord.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_Whitney-Font+Flowercord.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with Whitney Font and Flowercord",
           "minOSVersion": "12.0"}
@@ -502,7 +502,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.wif",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with Whitney Font, Iconsax Icons and Flowercord",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -518,9 +518,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_Whitney-Font+Iconsax_Icons+Flowercord.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_Whitney-Font+Iconsax_Icons+Flowercord.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with Whitney Font, Iconsax Icons and Flowercord",
           "minOSVersion": "12.0"}
@@ -528,7 +528,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.wi",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with Whitney Font and Iconsax Icons",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -544,9 +544,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_Whitney-Font+Iconsax_Icons.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_Whitney-Font+Iconsax_Icons.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with Whitney Font and Iconsax Icons",
           "minOSVersion": "12.0"}
@@ -554,7 +554,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.wpf",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with Whitney Font, Plumpy Icons and Flowercord",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -570,9 +570,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_Whitney-Font+Plumpy_Icons+Flowercord.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_Whitney-Font+Plumpy_Icons+Flowercord.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with Whitney Font, Plumpy Icons and Flowercord",
           "minOSVersion": "12.0"}
@@ -580,7 +580,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.wp",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with Whitney Font and Plumpy Icons",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -596,9 +596,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_Whitney-Font+Plumpy_Icons.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_Whitney-Font+Plumpy_Icons.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with Whitney Font and Plumpy Icons",
           "minOSVersion": "12.0"}
@@ -606,7 +606,7 @@
               },
               {
                 "name": "Rosiecord",
-            "bundleIdentifier": "com.hammerandchisel.rosiecord.w",
+            "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Rosie",
             "subtitle": "Rosiecord with Whitney Font",
             "localizedDescription": "This version of Rosiecord uses Stable Discord IPAs, which means they should be more stable and will work with AltStore",
@@ -622,9 +622,9 @@
         ],
             "versions": [
           {
-            "version": "186.0",
-            "date": "2023-07-24",
-          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-186_Whitney-Font.ipa",
+            "version": "188.0",
+            "date": "2023-07-25",
+          "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_Whitney-Font.ipa",
           "size": 100000000,
           "localizedDescription": "Rosiecord with Whitney Font",
           "minOSVersion": "12.0"}
@@ -636,7 +636,7 @@
     "title": "New AltStore-Rosiecord Build!",
     "identifier": "new_build",
     "caption": "A new AltStore-Rosiecord build has been released to the repository!",
-    "date": "2023-07-24",
+    "date": "2023-07-25",
     "tintColor": "#c34769",
     "notify": true,
     "url": "https://github.com/YangTheParrot/AltStore-Rosiecord"
