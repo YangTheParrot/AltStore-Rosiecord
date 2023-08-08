@@ -24,9 +24,9 @@
                     ],
             "versions": [
             {
-                "version": "188.0",
-                "date": "2023-07-25",
-                "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-188_Quicksand-Font+Iconsax_Icons.ipa",
+                "version": "190.0",
+                "date": "2023-08-08",
+                "downloadURL": "https://github.com/YangTheParrot/AltStore-Rosiecord/releases/latest/download/AltStore-Rosiecord-190_Quicksand-Font+Iconsax_Icons.ipa",
                 "size": 100000000,
                 "localizedDescription": "Rosiecord with Quicksand Font and Iconsax Icons",
                 "minOSVersion": "12.0"}
@@ -38,7 +38,7 @@
             "title": "New AltStore-Rosiecord Build!",
             "identifier": "new_build",
             "caption": "A new AltStore-Rosiecord build has been released to the repository!",
-            "date": "2023-07-25",
+            "date": "2023-08-08",
             "tintColor": "#c34769",
             "notify": true,
             "url": "https://github.com/YangTheParrot/AltStore-Rosiecord",
